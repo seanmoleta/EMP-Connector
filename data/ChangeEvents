@@ -1,0 +1,1 @@
+$ java -jar target/emp-connector-0.0.1-SNAPSHOT-phat.jar <username> <password> /data/Employee__ChangeEvent
